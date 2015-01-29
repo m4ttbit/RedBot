@@ -66,12 +66,12 @@
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>D:/Documents/Sketches/libraries</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries</Value>
       <Value>C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot/utility</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot/utility</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino</Value>
     </ListValues>
@@ -100,12 +100,12 @@
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>D:/Documents/Sketches/libraries</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries</Value>
       <Value>C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot/utility</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot/utility</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino</Value>
     </ListValues>
@@ -118,7 +118,7 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard;D:/Documents/Sketches/libraries/RedBot;D:/Documents/Sketches/libraries/RedBot/utility;C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;D:/Documents/Sketches/libraries;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/;c:/program files (x86)/arduino/hardware/tools/avr/avr/;c:/program files (x86)/arduino/hardware/tools/avr/lib/gcc/avr/4.3.2/include/;;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard;D:/Documents/Sketches/libraries/RedBot;D:/Documents/Sketches/libraries/RedBot/utility;C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;D:/Documents/Sketches/libraries;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/;c:/program files (x86)/arduino/hardware/tools/avr/avr/;c:/program files (x86)/arduino/hardware/tools/avr/lib/gcc/avr/4.3.2/include/;;C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot;C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot/utility;C:/Users/Matt/OneDrive/Documents/GitHub/libraries;</VMSETTING_IncludePaths>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <ToolchainSettings>
@@ -147,12 +147,12 @@
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>D:/Documents/Sketches/libraries</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries</Value>
       <Value>C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot/utility</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot/utility</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino</Value>
     </ListValues>
@@ -181,12 +181,12 @@
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>c:/program files (x86)/arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>D:/Documents/Sketches/libraries</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries</Value>
       <Value>C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot/utility</Value>
-      <Value>D:/Documents/Sketches/libraries/RedBot</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot/utility</Value>
+      <Value>C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino</Value>
     </ListValues>
@@ -199,7 +199,7 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard;D:/Documents/Sketches/libraries/RedBot;D:/Documents/Sketches/libraries/RedBot/utility;C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;D:/Documents/Sketches/libraries;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/;c:/program files (x86)/arduino/hardware/tools/avr/avr/;c:/program files (x86)/arduino/hardware/tools/avr/lib/gcc/avr/4.3.2/include/;;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/variants/standard;D:/Documents/Sketches/libraries/RedBot;D:/Documents/Sketches/libraries/RedBot/utility;C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;D:/Documents/Sketches/libraries;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/;c:/program files (x86)/arduino/hardware/tools/avr/avr/include/avr/;c:/program files (x86)/arduino/hardware/tools/avr/avr/;c:/program files (x86)/arduino/hardware/tools/avr/lib/gcc/avr/4.3.2/include/;;C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot;C:/Users/Matt/OneDrive/Documents/GitHub/libraries/Redbot/utility;C:/Users/Matt/OneDrive/Documents/GitHub/libraries;</VMSETTING_IncludePaths>
   </PropertyGroup>
   <ItemGroup>
     <None Include="Redbot_square.ino">
